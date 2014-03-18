@@ -21,6 +21,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenFS.Server", "RavenFS.Server\RavenFS.Server.csproj", "{32036FBC-B57E-47E6-A594-68B25080FFD8}"
 EndProject
 Global
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = d07e79f9-ee2b-4adb-9f06-f1f99a8e8700
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CodeCoverage|Any CPU = CodeCoverage|Any CPU
 		CodeCoverage|Mixed Platforms = CodeCoverage|Mixed Platforms
